@@ -1,0 +1,16 @@
+{
+    "name": "yunhu168/demo",
+    "description": "a test project for composer",
+    "type": "project",
+    "require": {
+        "houdunwang/hdphp": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "yunhu168",
+            "email": "77333060@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
